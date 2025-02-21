@@ -65,7 +65,7 @@ A huge shoutout to Akshay Saini 🚀 sir for being a constant source of inspirat
 
 ## Author
 
-Akash Deep \
+Mohit Rajak \
 Email: contact.mohitrajak022004@gmail.com \
 LinkedIn : https://www.linkedin.com/in/mohit-rajak/
 
@@ -73,6 +73,3 @@ LinkedIn : https://www.linkedin.com/in/mohit-rajak/
 
 Thank you for exploring Food App! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
 
----
-
-### Thanks for visit... 😊😊😊
