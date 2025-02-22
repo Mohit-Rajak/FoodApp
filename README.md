@@ -59,9 +59,6 @@ Follow these steps to set up and run Food Plaza locally:
 
     Open http://localhost:3000 in your web browser.
 
-## Acknowledgments
-
-A huge shoutout to Akshay Saini 🚀 sir for being a constant source of inspiration and guidance throughout this incredible journey! Join us on this exciting journey as we redefine the way you experience food delivery! 🌮🚀
 
 ## Author
 
