@@ -37,7 +37,7 @@ const Section = ({ title, description, isVisibal, setIsVisible }) => {
 						<br></br>
 						<p>{description.subDescription}</p>
 						<p>{description.msg}</p>
-						<p>[Akash Deep]</p>
+						<p>[Mohit Rajak]</p>
 					</div>
 				)}
 			</p>
