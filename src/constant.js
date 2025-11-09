@@ -45,7 +45,6 @@ export const CONTACT_MSG = {
 		social: "Explore My LinkedIn Profile",
 		link: "https://www.linkedin.com/in/mohit-rajak/",
 		msg: "Best regards,",
-		icon: "🌐",
 	},
 	facebook: {
 		name: "There!",
@@ -56,7 +55,6 @@ export const CONTACT_MSG = {
 		social: "Explore My Facebook Profile",
 		link: "https://www.facebook.com/",
 		msg: "Best regards,",
-		icon: "🌐",
 	},
 	instagram: {
 		name: "Friends!",
@@ -67,7 +65,7 @@ export const CONTACT_MSG = {
 		social: "Explore My Instagram Profile",
 		link: "https://www.instagram.com/mohitrajakofficial/",
 		msg: "See you on Instagram,",
-		icon: "🌐",
+	
 	},
 	github: {
 		name: "Fellow Developers!",
@@ -77,7 +75,7 @@ export const CONTACT_MSG = {
 		social: "Explore My GitHub Profile",
 		link: "https://github.com/Mohit-rajak/",
 		msg: "Happy coding,",
-		icon: "🌐",
+	
 	},
 	email: {
 		name: "There!",
@@ -87,7 +85,7 @@ export const CONTACT_MSG = {
 		social: "Email Now!",
 		link: "mailto: mohitrajak022004@gmail.com",
 		msg: "Best regards,",
-		icon: "📧",
+
 	},
 };
 
