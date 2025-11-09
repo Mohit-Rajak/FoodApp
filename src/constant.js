@@ -38,7 +38,7 @@ export const IMG_RESTAURANT_NOT_URL =
 
 export const CONTACT_MSG = {
 	linkedIn: {
-		name: "there!",
+		name: "Mohit Rajak",
 		description:
 			"I'm thrilled to connect with you! If you're interested in staying updated on my projects, insights, and professional journey, feel free to visit my LinkedIn profile. Don't forget to hit that 'Follow' button to stay in the loop!",
 		subDescription: "Looking forward to connecting with you on LinkedIn!",
@@ -47,7 +47,7 @@ export const CONTACT_MSG = {
 		msg: "Best regards,",
 	},
 	facebook: {
-		name: "There!",
+		name: "Mohit Rajak",
 		description:
 			"For more updates, interesting shares, and a glimpse into my life, consider connecting with me on Facebook! Follow or send a friend request to stay in touch.",
 		subDescription:
@@ -57,7 +57,7 @@ export const CONTACT_MSG = {
 		msg: "Best regards,",
 	},
 	instagram: {
-		name: "Friends!",
+		name: "Mohit Rajak",
 		description:
 			"If you enjoy visual content, behind-the-scenes looks, and updates on my projects and experiences, I invite you to check out my Instagram profile! Follow along for a vibrant feed of moments and stories.",
 		subDescription:
@@ -68,7 +68,7 @@ export const CONTACT_MSG = {
 	
 	},
 	github: {
-		name: "Fellow Developers!",
+		name: "Mohit Rajak",
 		description:
 			"If you're interested in my coding projects, contributions, and open-source work, feel free to explore my GitHub profile. Give it a star if you find something interesting, and let's connect in the coding world!",
 		subDescription: "Looking forward to collaborating with you on GitHub!",
@@ -78,7 +78,7 @@ export const CONTACT_MSG = {
 	
 	},
 	email: {
-		name: "There!",
+		name: "Mohit Rajak",
 		description:
 			"If you have any questions, inquiries, or just want to say hello, I'm just an email away! Feel free to reach out, and I'll get back to you as soon as possible.",
 		subDescription: "Looking forward to hearing from you!",
