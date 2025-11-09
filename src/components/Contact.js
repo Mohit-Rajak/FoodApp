@@ -11,7 +11,7 @@ const Contact = () => {
 			<Section
 				isVisibal={isVisibal == "github"}
 				setIsVisible={() =>
-					setIsVisible("github" == isVisibal ? "jack" : "github")
+					setIsVisible("github" == isVisibal ? "Mohit" : "github")
 				}
 				title={"Github"}
 				description={CONTACT_MSG.github}
@@ -19,7 +19,7 @@ const Contact = () => {
 			<Section
 				isVisibal={isVisibal == "linkedin"}
 				setIsVisible={() =>
-					setIsVisible("linkedin" == isVisibal ? "jack" : "linkedin")
+					setIsVisible("linkedin" == isVisibal ? "Mohit" : "linkedin")
 				}
 				title={"LinkedIn"}
 				description={CONTACT_MSG.linkedIn}
@@ -28,7 +28,7 @@ const Contact = () => {
 				isVisibal={isVisibal == "instagram"}
 				setIsVisible={() =>
 					setIsVisible(
-						"instagram" == isVisibal ? "jack" : "instagram"
+						"instagram" == isVisibal ? "Mohit" : "instagram"
 					)
 				}
 				title={"Instagram"}
@@ -37,15 +37,15 @@ const Contact = () => {
 			<Section
 				isVisibal={isVisibal == "facebook"}
 				setIsVisible={() =>
-					setIsVisible("facebook" == isVisibal ? "jack" : "facebook")
+					setIsVisible("facebook" == isVisibal ? "Mohit" : "facebook")
 				}
 				title={"Facebook"}
 				description={CONTACT_MSG.facebook}
 			/>
 			<Section
 				isVisibal={isVisibal == "email"}
-				setIsVisible={() =>
-					setIsVisible("email" == isVisibal ? "jack" : "email")
+				setIsVisible={() =
+					setIsVisible("email" == isVisibal ? "Mohit" : "email")
 				}
 				title={"Email Support"}
 				description={CONTACT_MSG.email}
